@@ -5,6 +5,8 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 public class page : MonoBehaviour
 {
+
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -19,21 +21,26 @@ public class page : MonoBehaviour
     public void OnClickMenu()
     {
         SceneManager.LoadScene("menu");
+        
     }
     public void OnClickFei()
     {
         SceneManager.LoadScene("YuxiaoFei");
+        
     }
     public void OnClickZhang()
     {
         SceneManager.LoadScene("zhang");
+        
     }
     public void OnClickAn()
     {
         SceneManager.LoadScene("Page 1");
+        
     }
     public void OnClickLu()
     {
         SceneManager.LoadScene("Lu's scene");
+        
     }
 }

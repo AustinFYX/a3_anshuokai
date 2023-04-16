@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lu's scene.unity
     guid: fc0526a9c89b990438a4aefce4202655
+  - enabled: 1
+    path: Assets/Scenes/credit.unity
+    guid: a53069010e053c846af209c259f0325b
   m_configObjects: {}

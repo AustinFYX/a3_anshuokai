@@ -43,4 +43,8 @@ public class page : MonoBehaviour
         SceneManager.LoadScene("Lu's scene");
         
     }
+    public void OnClickCredit()
+    {
+        SceneManager.LoadScene("credit");
+    }
 }
